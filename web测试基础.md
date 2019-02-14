@@ -45,7 +45,7 @@
 ## 按网络的传输技术分类 
 ![网络的传输技术分类](https://i.imgur.com/up4QsVg.png)
 
-## 按
+## 按管理方法分类
 ![管理方法分类](https://i.imgur.com/KBt0txw.png)
 
 ## 按传输介质分类
