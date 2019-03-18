@@ -39,7 +39,7 @@
 	- 重装TCP/IP协议 
 
 ## Web系统基础-网络结构模式 
-![网络结构模式 ](https://i.imgur.com/DFI3osG.png)
+![网络结构模式](http://i1.bvimg.com/616582/8a1fd69337988bcf.png)
 
 ## Web系统架构–B/S
 - B/S结构（Browser/Server，浏览器/服务器模式），是WEB兴 起后的一种网络结构模式，WEB浏览器是客户端最主要的应用 软件。这种模式统一了客户端，将系统功能实现的核心部分集中 到服务器上，简化了系统的开发、维护和使用。
@@ -99,7 +99,7 @@
 	- :port - 定义主机上的端口号（http 的默认端口号是 80）
 	- path - 定义服务器上的路径（如果省略，则文档必须位于网站的根目录中）。
 	- filename - 定义文档/资源的名称
-![web工作原理](https://i.imgur.com/QcRweVE.png)
+![web工作原理](http://i1.bvimg.com/616582/5a6fa6f89c247778.png)
 
 ## Web工作原理-静态页面
 - 用HTML等来编排，页面内容固定不变，以 *.html、*.htm   等文件形式保存的网页。后缀网页不含有“？” 
@@ -118,9 +118,9 @@
 
 ## 服务器端技术
 - Web服务器
-![Web服务器](https://i.imgur.com/FSRZHPz.png)
+![Web服务器](http://i1.bvimg.com/616582/ff727d00d7f35584.png)
 - 应用服务器 
-![应用服务器](https://i.imgur.com/70lK8H1.png)
+![应用服务器](http://i1.bvimg.com/616582/8fc1640524d13bdf.png)
 - 脚本引擎
 	- 在服务器端处理动态网页，生成标准的HTML的网页给客户端 
 	- 几种脚本引擎： 
@@ -129,7 +129,7 @@
 		- JSP 
 		- RUBY 
 - 集群环境 
-![集群环境](https://i.imgur.com/Gr7JQe5.png)
+![集群环境](http://i1.bvimg.com/616582/530b672bc53e8da1.png)
 - 数据库
 	- 文件型数据库 
 	- 关系型数据库 
