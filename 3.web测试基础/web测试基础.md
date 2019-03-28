@@ -5,7 +5,7 @@
 
 ## 网络基础知识—网络硬件
 
-![网络硬件](http://i1.bvimg.com/616582/71f91f3d979d607f.png)
+![网络硬件](https://pic.rmb.bdstatic.com/6a8673f371f91f3d979d607f0f3c3066.png)
 
 ## 网络基础知识—网络软件的组成
 
@@ -14,7 +14,8 @@
 - 网络协议软件
 - 网络应用软件
 - 网络通信软件
-  ![网络软件](http://i1.bvimg.com/616582/f0fe345bbed79a47.png)
+
+![网络软件](http://i1.bvimg.com/616582/f0fe345bbed79a47.png)
 
 ## 计算机网络的主要功能
 
@@ -30,7 +31,7 @@
   - 计算机联网后，可以在某个中心位置实现对整个网络的管理。
 - 分布式处理：
   - 把要处理的任务分散到各个计算机上运行，而不是集中在一台大型计算机上。这样可以降低软件设计的复杂性，大大提高工作效率和降低成本。
-    ![计算机网络的主要功能](http://i1.bvimg.com/616582/17cb6a8ddd792742.png)
+    ![计算机网络的主要功能](https://pic.rmb.bdstatic.com/fee7ecfc17cb6a8ddd7927422de5a91c.png)
 
 ## 网络基础知识-互联网特点
 
@@ -39,15 +40,15 @@
 
 ## 网络基础知识—网络的分类
 
-![网络的分类](http://i1.bvimg.com/616582/37841e55f12b456b.png)
+![网络的分类](https://pic.rmb.bdstatic.com/bc52f36637841e55f12b456b5adc3be0.png)
 
 ## 按物理范围分类
 
-![物理范围分类](http://i1.bvimg.com/616582/ae40e5d1845728d1.png)
+![物理范围分类](https://pic.rmb.bdstatic.com/afe27528ae40e5d1845728d1956576f5.png)
 
 ## 按网络拓扑分类
 
-![网络拓扑分类](http://i1.bvimg.com/616582/993f33fc7097e1b0.png)
+![网络拓扑分类](https://pic.rmb.bdstatic.com/867a5832993f33fc7097e1b07f8a0c89.png)
 
 ## 按网络的传输技术分类
 
@@ -91,7 +92,7 @@
 
 ## OSI参考模型介绍
 
-![OSI参考模型](http://i1.bvimg.com/616582/625a43746dc90831.png)
+![OSI参考模型](https://pic.rmb.bdstatic.com/81a15064625a43746dc908315e382322.png)
 ![OSI参考模型2](http://i1.bvimg.com/616582/6036ab830283965b.png)
 
 ## TCP/IP的基本概念
@@ -112,11 +113,11 @@
 
 ## IP地址的分类
 
-![IP地址的分类](http://i1.bvimg.com/616582/e076f47b79339946.png)
+![IP地址的分类](https://pic.rmb.bdstatic.com/e6bb7ab7e076f47b79339946d024e1ae.png)
 
 ## TCP协议 –建立连接
 
-![三次握手](http://i1.bvimg.com/616582/5232cfcd57bd8ac0.png)
+![三次握手](https://pic.rmb.bdstatic.com/bf9104b35232cfcd57bd8ac070483b70.png)
 
 1. 序号：Seq序号，占32位，用来标识从TCP源端向目的端发送的字节流，发起方发送数据时对此进行标记。
 2. 确认序号：ack序号，占32位，只有ACK标志位为1时，确认序号字段才有效，ack=seq+1。
@@ -137,7 +138,7 @@
 
    
 
-  ![四次挥手](http://i1.bvimg.com/616582/4d760cd308f9c6f7.png)
+  ![四次挥手](https://pic.rmb.bdstatic.com/731fe1744d760cd308f9c6f79e86629c.png)
 
 ## UDP和TCP的区别
 
@@ -148,7 +149,7 @@
 ## HTTP(超文本传输协议)协议简介
 
 - 定义： 一种详细规定了 浏览器和万维网服务器 之间互相通信的规则， 通过因特网传送万维网 文档的数据传送协议。
-  ![HTTP协议](http://i1.bvimg.com/616582/6023eb055a505b44.png)
+  ![HTTP协议](https://pic.rmb.bdstatic.com/dec0fd696023eb055a505b44fdc1e13d.png)
 
 ## Http协议的特点
 

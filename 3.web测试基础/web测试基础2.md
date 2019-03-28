@@ -99,7 +99,7 @@
 	- :port - 定义主机上的端口号（http 的默认端口号是 80）
 	- path - 定义服务器上的路径（如果省略，则文档必须位于网站的根目录中）。
 	- filename - 定义文档/资源的名称
-![web工作原理](http://i1.bvimg.com/616582/5a6fa6f89c247778.png)
+![web工作原理](https://pic.rmb.bdstatic.com/9b1a3c585a6fa6f89c2477787ab211be.png)
 
 ## Web工作原理-静态页面
 - 用HTML等来编排，页面内容固定不变，以 *.html、*.htm   等文件形式保存的网页。后缀网页不含有“？” 
@@ -120,7 +120,7 @@
 - Web服务器
 ![Web服务器](http://i1.bvimg.com/616582/ff727d00d7f35584.png)
 - 应用服务器 
-![应用服务器](http://i1.bvimg.com/616582/8fc1640524d13bdf.png)
+![应用服务器](https://pic.rmb.bdstatic.com/223f15c38fc1640524d13bdf1858917a.png)
 - 脚本引擎
 	- 在服务器端处理动态网页，生成标准的HTML的网页给客户端 
 	- 几种脚本引擎： 

@@ -1,5 +1,5 @@
 # Web测试类型
-![软件测试](https://i.imgur.com/pmzAKKi.jpg)
+![软件测试](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1550489578937&di=1074b4e7fc6b925b51335c8f55def462&imgtype=0&src=http%3A%2F%2Fimg.mp.itc.cn%2Fupload%2F20170223%2Fd544e989ec6d4869b6ec3983997acde4_th.jpg)
 ## Web测试技术-功能测试
 - 功能测试通常从以下几个角度来对软件测试进行评价： 
 	- 软件是否正确实现了需求规格说明书中明确定义的需求。 
